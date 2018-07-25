@@ -1,0 +1,24 @@
+{
+  "name": "adb-gui-tool",
+  "version": "1.0.0",
+  "description": "adb gui",
+  "main": "app.js",
+  "scripts": {
+    "electron": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "adb",
+    "adb-gui",
+    "adb-tool",
+    "adb-gui-tool"
+  ],
+  "author": "andhikayuana@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^2.0.5"
+  },
+  "dependencies": {
+    "xel": "0.0.141"
+  }
+}
